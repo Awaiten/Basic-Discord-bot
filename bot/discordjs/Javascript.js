@@ -1,1 +1,1 @@
-"i don't actully know any javascript so  yeah......"
+fire = ["i don't actully know any javascript so  yeah......"]
